@@ -58,7 +58,7 @@
   rebase = false
 
 [init]
-  defaultBranch = master
+	defaultBranch = main
 [user]
-	email = diogo.alvespinto@gmail.com
+	email = 134944871+diogoalvespinto@users.noreply.github.com
 	name = Diogo Pinto
